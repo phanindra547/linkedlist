@@ -1,4 +1,4 @@
-
+//Insertion at begining
 public class Main
 {
         class Node{
@@ -50,5 +50,4 @@ public class Main
 	}
 }
 		
-	}
-}
+	
